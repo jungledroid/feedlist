@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    >
+    <solid android:color="@color/vote_rest" />
+    <stroke android:color="@color/vote_boarder" android:width="@dimen/d_1"/>
+    <size android:width="@dimen/d_200" android:height="@dimen/d_200"/>
+</shape>

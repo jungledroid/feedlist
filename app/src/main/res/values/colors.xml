@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#f6f5f4</color>
+    <color name="vote_selected">#67c7c5</color>
+    <color name="vote_rest">#E6F0EF</color>
+    <color name="vote_boarder">#67C7C5</color>
+    <color name="title">#333333</color>
+    <color name="result_bg">#f6f5f4</color>
+</resources>
